@@ -1,5 +1,1 @@
-def display_message():
-    return "Hello, this is a secured project!"
-
-if __name__ == "__main__":
-    print(display_message())
+gAAAAABnSUYewTOx5mzPGkJ1SUKLTqRZ9CZXmNw4FnAS9pn7BEdz05TGrPlpZynEa-CVdlzpLalF5Pjd_Y1bStn92jymj3FJHUQpGrau-DAxWnmk6po3dYFXs6dw3HmrnJSzv3CztlMdA9TVDtM3cvGpBQA6Xk5tDDP8PZIr2brlyTRoQoY7jesi8L5Z5JKX0Vb8AUTk_Jk3naKkTAjdyBlmwpFLXFUyZ3dIWG3u0MqI9PHYGYJN9XA=

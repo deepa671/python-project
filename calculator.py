@@ -1,9 +1,1 @@
-def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a - b
-
-if __name__ == "__main__":
-    print("Addition:", add(10, 5))
-    print("Subtraction:", subtract(10, 5))
+gAAAAABnSUYcVutBViUhAzxPE6dRiimLihpqu9camlbW7pxLpxBjxfU9s088qVDMzniMzamPnQ6NoeglAShlnN6Xg5XW9M2vXYB0p_XBM76wDpSL_nDY6Msl5kRwIhGQQH3HC52_9YM1ARCCBxuLxax5cRpr0PEcnCflI4w3bhksYhjjW-DdSaxHRGeGEfjFpdseOr7PfGuitUx8xVDrK6ZTM6Qr00XjmQWLBO7CnLPMoZ_WdBRx8ULFu0439b7NbWiOZp_IIFKXK_8yfmhwxpE8c7ZqGkWF2x6T3CEO_shoX7Rp1SklhpHYajtSCZd6mpU3f9msPkBA
